@@ -5,7 +5,7 @@ layout: post
 ---
 You can create sort of responsive font sizes and avoid ```@media``` blocks by implementing one simple line of css.
 
-```
+```html
 font-size: calc(1em + 1vw);
 ```
 
